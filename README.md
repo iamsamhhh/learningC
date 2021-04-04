@@ -1,3 +1,3 @@
 # learningC
-Use to learn c
+Use to learn c\n
 it is a personal place
