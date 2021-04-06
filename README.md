@@ -18,3 +18,5 @@ I'm currently reading C primer plus
 i found that every one says that git are easy
 
 but i don't think so
+
+the branch are confusing
