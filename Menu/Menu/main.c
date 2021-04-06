@@ -20,7 +20,7 @@ int main(void) {
     while ((choice = GetChoice()) != 'q') {
         switch (choice) {
             case 'a':
-                printf("Buy low, sell high.\n");
+                printf("Buy C primer plus!!!\n");
                 break;
             case 'b':
                 putchar('\a');
