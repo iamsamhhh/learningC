@@ -1,10 +1,3 @@
-//
-//  main.c
-//  Menu
-//
-//  Created by 谌宇轩 Sam on 2021/4/5.
-//
-
 #include <stdio.h>
 
 
