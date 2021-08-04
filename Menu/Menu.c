@@ -113,7 +113,5 @@ void Swap_Main(){
     
     printf("After swap a = %4d, b = %4d\n"
            "And the address of a is %p, for b is %p\n",
-           a, b,
-           &a, &b); //获取a和b的地址
-    
+           a, b,&a, &b); //获取a和b的地址
 }
